@@ -1,4 +1,4 @@
 # Platform for promoters / interprets
-promote.me
+plzpromote.me
 
 ## Description
