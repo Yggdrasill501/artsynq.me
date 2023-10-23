@@ -1,4 +1,4 @@
-# Platform for proters/interprets
+# Platform for promoters / interprets
 promote.me
 
 ## Description
