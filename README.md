@@ -1,4 +1,4 @@
 # Platform for promoters / interprets
-plzpromote.me
+artsynq.me
 
 ## Description
